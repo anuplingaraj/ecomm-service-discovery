@@ -11,6 +11,7 @@ public class ServiceDiscoveryApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		ServiceDiscoveryApplication.main(new String[] {});
 	}
 
 }
